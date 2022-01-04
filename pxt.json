@@ -4,7 +4,8 @@
     "dependencies": {
         "core": "*",
         "radio": "*",
-        "microphone": "*"
+        "microphone": "*",
+        "counter": "github:sabriboulahia2011/counter#90c07124505cdceb12277359d0a1daa7b6bee5a3"
     },
     "files": [
         "main.blocks",
